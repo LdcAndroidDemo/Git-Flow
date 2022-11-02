@@ -8,3 +8,4 @@
 
 
 修复loading 未正常关闭
+loading 背景设置为全透明
