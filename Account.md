@@ -9,3 +9,4 @@
 
 修复loading 未正常关闭
 loading 背景设置为全透明
+替换 loading 动画
